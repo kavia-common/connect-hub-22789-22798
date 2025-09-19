@@ -9,6 +9,9 @@ using Microsoft.IdentityModel.Tokens;
 
 namespace FrndAppBackend.Services
 {
+    /// <summary>
+    /// JWT configuration bound from configuration (section: Jwt).
+    /// </summary>
     public class JwtSettings
     {
         public string Issuer { get; set; } = "frnd-app";
