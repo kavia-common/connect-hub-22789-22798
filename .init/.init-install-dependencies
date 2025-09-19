@@ -1,0 +1,4 @@
+{
+    "command": "dotnet restore",
+    "working_directory": "/home/kavia/workspace/code-generation/connect-hub-22789-22798/frnd_app_backend"
+}

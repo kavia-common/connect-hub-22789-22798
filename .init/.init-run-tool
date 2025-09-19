@@ -1,0 +1,4 @@
+{
+    "command": "dotnet run --urls \"http://<host>:<port>\"",
+    "working_directory": "/home/kavia/workspace/code-generation/connect-hub-22789-22798/frnd_app_backend"
+}
